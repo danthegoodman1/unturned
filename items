@@ -3,7 +3,8 @@
 19005; 40mm Ammo
 19006; 20mm Ammo
 19007; 7.62 Gatling Ammo
-14487; Machine Gun Box
+14487; Machine Gun Box 100 Round
+14554; Machine Gun Box 200 Round
 14701; 1000lb Bomb
 14448; Ariska
 14449; Ariska Clip
@@ -136,3 +137,5 @@
 14302; American Chest Carrier
 14303; American Sling Pack
 14304; American Helmet
+14497; AP Shell
+14498; HE Shell
