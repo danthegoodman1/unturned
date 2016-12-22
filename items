@@ -1,6 +1,7 @@
 39141; Frieghter Backpack
 19004; 0.50 Ammo
-19005; 40mm Ammo
+19005; 40mm Ammo 50 Round
+14560; 40mm Ammo 10 Round
 19006; 20mm Ammo
 19007; 7.62 Gatling Ammo
 14487; Machine Gun Box 100 Round
@@ -18,7 +19,9 @@
 14494; Sawed-Off Shotgun
 14499; Bayonet Ariska
 14447; Bayonet
+14436; MG32
 14231; MG42
+14232; MG42 Drum Vehicle Use
 14446; MG42 200 Round Belt
 14232; MG42 Box
 14445; M1 Garand
